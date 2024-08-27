@@ -5,6 +5,6 @@ I decided, why not make a website with all of my thoughts? I have quite a few by
 
 Here are some photo's from my notes about Lunic Philosophy:
 
-[!Picture of notebook](https://trixjoyce.com/GitHub/lunic3.jpg)
+![Picture of notebook](https://trixjoyce.com/GitHub/lunic3.jpg)
 
-[!Picture of notebook](https://trixjoyce.com/GitHub/lunic1.jpg)
+![Picture of notebook](https://trixjoyce.com/GitHub/lunic1.jpg)
